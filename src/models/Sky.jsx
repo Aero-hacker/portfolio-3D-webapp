@@ -25,4 +25,4 @@ export function Sky({ isRotating }) {
       <primitive object={sky.scene} />
     </mesh>
   );
-}
+};
