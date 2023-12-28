@@ -8,4 +8,4 @@ export {
     About,
     Projects,
     Contact
-}
+};
