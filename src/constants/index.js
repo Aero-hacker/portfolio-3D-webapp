@@ -189,4 +189,4 @@ export const projects = [
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
         link: 'https://github.com/adrianhajdin/project_ai_summarizer',
     }
-];
+]
